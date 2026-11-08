@@ -3,7 +3,7 @@
 |----------|----------|----------|
 |![classic_ui_mini](https://user-images.githubusercontent.com/1655387/117437507-fb0e9b80-af38-11eb-9fb9-b309543220a1.jpg)|![color_ui_mini](https://user-images.githubusercontent.com/1655387/117437559-08c42100-af39-11eb-8d13-ac0bb497c5ca.jpg)|![mks_ui](https://user-images.githubusercontent.com/1655387/120157267-83602380-c1fb-11eb-9f93-14aecdee5a28.jpg)|
 
-#### What's works?
+#### What works?
 
 - [x] TFT display ( ILI9488 and OTM4802 )
 - [x] Touch screen controller ( XPT2046 )
@@ -15,7 +15,7 @@
 - [x] External SD card
 - [x] USB ( virtual serial port )
 
-#### What's doesn't work?
+#### What doesn't work?
 - [ ] FlashForge WiFi module
 
 #### Supported printers:
